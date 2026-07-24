@@ -23,7 +23,7 @@ Due to time constraints, this project is limited to exploring the fundamental, s
 
 Exploring these advanced methods is considered for future work, building upon foundational theories of nonparametric discrimination. 
 For reference on these theoretical foundations and advanced justifications, please refer to:
-> **[1]** E. Fix and J. L. Hodges, Jr., "Discriminatory Analysis. Nonparametric Discrimination: Consistency Properties," *Technical Report*, USAF School of Aviation Medicine, Randolph Field, Texas, 1951. *(as cited as the 2nd reference in the project's final report: `final_report_gr2_kNN.pdf`)*.
+> **[1]** E. Fix and J. L. Hodges, Jr., "Discriminatory Analysis. Nonparametric Discrimination: Consistency Properties," *Technical Report*, USAF School of Aviation Medicine, Randolph Field, Texas, 1951.
 
 ## How to Run
 Navigate into the respective step directories and run the Python scripts or Jupyter Notebooks.
